@@ -1,2 +1,2 @@
-# AppLogin
-Aplicativo de login desenvolvido em kotlin.
+# App-calculadora-IMC
+Aplicativo de calculadora de IMC, desenvolvido em kotlin.
